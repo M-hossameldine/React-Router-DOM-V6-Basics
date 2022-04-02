@@ -15,11 +15,9 @@ This demo project aims to practice on implementing routing in **_React_** using 
 ## Built Using <a name="built_using"></a>
 
 - [ReactJs](https://reactjs.org/) - Web FrameWork
-- [React Router Dom v.5](https://www.npmjs.com/package/react-router-dom/v/6.0.0) DOM binding for [React Router](https://reactrouter.com/)
+- [React Router Dom v.6](https://www.npmjs.com/package/react-router-dom/v/6.0.0) DOM binding for [React Router](https://reactrouter.com/)
 
 ## TODO
-
-- [ ] Deploy a live demo for the project
 
 ## Acknowledgements <a name="acknowledgement"></a>
 

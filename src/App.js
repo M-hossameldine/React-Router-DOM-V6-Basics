@@ -15,7 +15,9 @@ function App() {
           {/* <Route path='/' element={<Navigate replace to='/welcome' />} /> */}
 
           {/* The * to match the nested routes */}
-          <Route path='/welcome/*' element={<Welcome />} />
+          <Route path='/welcome/*' element={<Welcome />}>
+            <Route path='new-user' element={<p> New User Profile </p>} />
+          </Route>
 
           <Route path='/products' element={<Products />} />
 
