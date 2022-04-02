@@ -1,4 +1,4 @@
-# React Router V.5 Basics
+# React Router V.6 Basics
 
 ## Table of Contents
 
@@ -10,12 +10,12 @@
 
 ## About <a name= "about"></a>
 
-This demo project aims to practice on implementing routing in **_React_** using the well known third-library **_React-Router-Dom_**.
+This demo project aims to practice on implementing routing in **_React_** using the well known third-party library **_React-Router-Dom V.6_**.
 
 ## Built Using <a name="built_using"></a>
 
 - [ReactJs](https://reactjs.org/) - Web FrameWork
-- [React Router Dom v.5](https://www.npmjs.com/package/react-router-dom/v/5.0.0) DOM binding for [React Router](https://reactrouter.com/)
+- [React Router Dom v.5](https://www.npmjs.com/package/react-router-dom/v/6.0.0) DOM binding for [React Router](https://reactrouter.com/)
 
 ## TODO
 

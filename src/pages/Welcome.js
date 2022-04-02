@@ -1,14 +1,14 @@
 import { Link } from 'react-router-dom';
-import { Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 const Welcome = () => {
   return (
     <>
       <h1>Welcome Page</h1>
-      <Link to='/welcome/new-user'>Activate New User</Link>
-      <Route path='/welcome/new-user'>
-        <p> Welcome New User </p>
-      </Route>
+      <Link to='new-user'> Show New User </Link>
+      <Routes>
+        <Route path='new-user' element={<h2> New User </h2>} />
+      </Routes>
     </>
   );
 };
